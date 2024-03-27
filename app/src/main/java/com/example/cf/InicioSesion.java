@@ -23,6 +23,7 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 //Ejemplo commit
+//Ejemplo merge
 public class InicioSesion extends AppCompatActivity {
 
 
